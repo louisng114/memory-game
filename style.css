@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(255, 250, 160);
+}
+
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 2%;
+  display: inline-block;
+}
+
+p {
+  font-size: xx-large;
+}
